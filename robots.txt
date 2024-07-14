@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bastater.github.io/sitemap.html.gz
+Sitemap: https://bastater.github.io/app/sitemap.html.gz
+Sitemap: https://bastater.github.io/assets/sitemap.html.gz
+Sitemap: https://bastater.github.io/css/sitemap.html.gz
+Sitemap: https://bastater.github.io/includes/sitemap.html.gz
+Sitemap: https://bastater.github.io/item/sitemap.html.gz
+Sitemap: https://bastater.github.io/src/sitemap.html.gz
